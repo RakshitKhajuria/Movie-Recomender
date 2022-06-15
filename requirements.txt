@@ -2,66 +2,33 @@
 
 
 
-matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
 
-numpy @ file:///C:/ci/numpy_and_numpy_base_1618497418457/work
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
 olefile==0.46
-openpyxl @ file:///tmp/build/80754af9/openpyxl_1615411699337/work
 outcome==1.1.0
-packaging @ file:///tmp/build/80754af9/packaging_1611952188834/work
-pandas @ file:///C:/ci/pandas_1618365634936/work
-pandocfilters @ file:///C:/ci/pandocfilters_1605102497129/work
-paramiko @ file:///tmp/build/80754af9/paramiko_1598886428689/work
+
 parso==0.7.0
-partd @ file:///tmp/build/80754af9/partd_1618000087440/work
-path @ file:///C:/ci/path_1614022440181/work
-pathlib2 @ file:///C:/ci/pathlib2_1607025069150/work
+
 pathspec==0.7.0
 patsy==0.5.1
 pep8==1.7.1
-pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow @ file:///C:/ci/pillow_1617386341487/work
+
 pkginfo==1.7.0
-pluggy @ file:///C:/ci/pluggy_1615976358795/work
 ply==3.11
-prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1618088486455/work
-prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1616415428029/work
+
 protobuf==3.20.1
-psutil @ file:///C:/ci/psutil_1612298324802/work
-ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
-py @ file:///tmp/build/80754af9/py_1607971587848/work
+
 pyarrow==8.0.0
-pycodestyle @ file:///home/ktietz/src/ci_mi/pycodestyle_1612807597675/work
 pycosat==0.6.3
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
 pycurl==7.43.0.6
 pydeck==0.7.1
-pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1616182067796/work
-pyerfa @ file:///C:/ci/pyerfa_1619391071834/work
-pyflakes @ file:///home/ktietz/src/ci_ipy2/pyflakes_1612551159640/work
-Pygments @ file:///tmp/build/80754af9/pygments_1615143339740/work
-pylint @ file:///C:/ci/pylint_1617136058775/work
-pyls-black @ file:///tmp/build/80754af9/pyls-black_1607553132291/work
-pyls-spyder @ file:///tmp/build/80754af9/pyls-spyder_1613849700860/work
-Pympler==1.0.1
-PyNaCl @ file:///C:/ci/pynacl_1595000047588/work
-pyodbc===4.0.0-unsupported
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
-pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+
+
 pyreadline==2.1
-pyrsistent @ file:///C:/ci/pyrsistent_1600141795814/work
-PySocks @ file:///C:/ci/pysocks_1605287845585/work
+
 pytest==6.2.3
-python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
-python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1600278539111/work
-python-language-server @ file:///tmp/build/80754af9/python-language-server_1607972495879/work
 
 scikit-image==0.18.1
-scikit-learn @ file:///C:/ci/scikit-learn_1614446896245/work
-scipy @ file:///C:/ci/scipy_1618856128765/work
-seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
+
 
 sklearn==0.0
 
